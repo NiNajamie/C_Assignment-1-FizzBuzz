@@ -1,3 +1,10 @@
+//
+//  main.c
+//  C_Assignment#1:FizzBuzz
+//
+//  Created by Asuka Nakagawa on 2016-03-03.
+//  Copyright © 2016 Asuka Nakagawa. All rights reserved.
+//
 
 #include <stdio.h>
 
